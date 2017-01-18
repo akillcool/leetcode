@@ -10,7 +10,7 @@ Practice makes perfect.
 7. Reverse Integer	
 8. String to Integer (atoi)
 9. Palindrome Number
-10. egular Expression Matching
+10. Regular Expression Matching
 11. Container With Most Water
 12. Integer to Roman
 13. Roman to Integer	
@@ -29,7 +29,7 @@ Practice makes perfect.
 26. Remove Duplicates from Sorted Array
 27. Remove Element
 28. Implement strStr()	
-29. ivide Two Integers
+29. Divide Two Integers
 30. Substring with Concatenation of All Words
 31. Next Permutation
 32. Longest Valid Parentheses
