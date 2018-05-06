@@ -1,10 +1,10 @@
-# leetcode in C
+# leetcode in Java
 **Practice makes perfect.**
 
-1. [Two Sum](1.Two Sum.md)
-2. [Add Two Numbers](2.Add Two Numbers.md)
-3. [Longest Substring Without Repeating Characters](3. Longest Substring Without Repeating Characters.md)
-4. [Median of Two Sorted Arrays](4. Median of Two Sorted Arrays.md)
+1. [Two Sum](1.Two%20Sum.md)
+2. [Add Two Numbers](2.Add%20Two%20Numbers.md)
+3. [Longest Substring Without Repeating Characters](3.Longest%20Substring%20Without%20Repeating%20Characters.md)
+4. [Median of Two Sorted Arrays](4.Median%20of%20Two%20Sorted%20Arrays.md)
 5. Longest Palindromic Substring
 6. ZigZag Conversion
 7. Reverse Integer	
