@@ -9,7 +9,7 @@
 6. ZigZag Conversion
 7. [Reverse Integer](7.%20Reverse%20Integer.md)	
 8. [String to Integer (atoi)](8.%20String%20to%20Integer%20(atoi).md)
-9. Palindrome Number
+9. [Palindrome Number](9.%20Palindrome%20Number.md)
 10. Regular Expression Matching
 11. Container With Most Water
 12. Integer to Roman
