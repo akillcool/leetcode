@@ -8,7 +8,7 @@
 5. Longest Palindromic Substring
 6. ZigZag Conversion
 7. [Reverse Integer](7.%20Reverse%20Integer.md)	
-8. String to Integer (atoi)
+8. [String to Integer (atoi)](8.%20String%20to%20Integer%20(atoi).md)
 9. Palindrome Number
 10. Regular Expression Matching
 11. Container With Most Water
