@@ -14,7 +14,7 @@
 11. Container With Most Water
 12. Integer to Roman
 13. [Roman to Integer](13.%20Roman%20to%20Integer.md)	
-14. Longest Common Prefix
+14. [Longest Common Prefix](14.%20Longest%20Common%20Prefix.md)
 15. 3Sum
 16. 3Sum Closest
 17. Letter Combinations of a Phone Number
