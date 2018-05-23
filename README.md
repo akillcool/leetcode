@@ -27,7 +27,7 @@
 24. Swap Nodes in Pairs	
 25. Reverse Nodes in k-Group
 26. [Remove Duplicates from Sorted Array](26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
-27. Remove Element
+27. [Remove Element](27.%20Remove%20Element.md)
 28. Implement strStr()	
 29. Divide Two Integers
 30. Substring with Concatenation of All Words
