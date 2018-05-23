@@ -21,7 +21,7 @@
 18. 4Sum
 19. Remove Nth Node From End of List
 20. Valid Parentheses
-21. Merge Two Sorted Lists
+21. [Merge Two Sorted Lists](21.%20Merge%20Two%20Sorted%20Lists.md)
 22. Generate Parentheses
 23. Merge k Sorted Lists
 24. Swap Nodes in Pairs	
