@@ -38,7 +38,7 @@
 35. Search Insert Position
 36. Valid Sudoku	
 37. Sudoku Solver
-38. Count and Say
+38. [Count and Say](38.%20Count%20and%20Say.md)
 39. Combination Sum
 40. Combination Sum II
 41. First Missing Positive
