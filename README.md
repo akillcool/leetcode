@@ -287,7 +287,7 @@
 284. Peeking Iterator
 285. Inorder Successor in BST
 286. Walls and Gates
-287. Find the Duplicate Number
+287. [Find the Duplicate Number](287.%20Find%20the%20Duplicate%20Number.md)
 288. Unique Word Abbreviation
 289. Game of Life
 290. Word Pattern
