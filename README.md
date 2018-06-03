@@ -118,7 +118,7 @@
 115. Distinct Subsequences
 116. Populating Next Right Pointers in Each Node
 117. Populating Next Right Pointers in Each Node II
-118. Pascal's Triangle
+118. [Pascal's Triangle](118.%20Pascal's%20Triangle.md)
 119. Pascal's Triangle II
 120. Triangle
 121. Best Time to Buy and Sell Stock
