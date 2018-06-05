@@ -1,34 +1,34 @@
 # leetcode in Java
 **Practice makes perfect.**
 
-* [ ] 1. [Two Sum](1.%20Two%20Sum.md)
-* [ ] 2. [Add Two Numbers](2.%20Add%20Two%20Numbers.md)
-* [ ] 3. [Longest Substring Without Repeating Characters](3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
-* [ ] 4. [Median of Two Sorted Arrays](4.%20Median%20of%20Two%20Sorted%20Arrays.md)
-* [ ] 5. [Longest Palindromic Substring](5.%20Longest%20Palindromic%20Substring.md)
-* [ ] 6. [ZigZag Conversion](6.%20ZigZag%20Conversion.md)
-* [ ] 7. [Reverse Integer](7.%20Reverse%20Integer.md)	
-* [ ] 8. [String to Integer (atoi)](8.%20String%20to%20Integer%20(atoi).md)
-* [ ] 9. [Palindrome Number](9.%20Palindrome%20Number.md)
+* [x] 1. [Two Sum](1.%20Two%20Sum.md)
+* [x] 2. [Add Two Numbers](2.%20Add%20Two%20Numbers.md)
+* [x] 3. [Longest Substring Without Repeating Characters](3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
+* [x] 4. [Median of Two Sorted Arrays](4.%20Median%20of%20Two%20Sorted%20Arrays.md)
+* [x] 5. [Longest Palindromic Substring](5.%20Longest%20Palindromic%20Substring.md)
+* [x] 6. [ZigZag Conversion](6.%20ZigZag%20Conversion.md)
+* [x] 7. [Reverse Integer](7.%20Reverse%20Integer.md)	
+* [x] 8. [String to Integer (atoi)](8.%20String%20to%20Integer%20(atoi).md)
+* [x] 9. [Palindrome Number](9.%20Palindrome%20Number.md)
 * [ ] 10. Regular Expression Matching
-* [ ] 11. [Container With Most Water](11.%20Container%20With%20Most%20Water.md)
-* [ ] 12. [Integer to Roman](12.%20Integer%20to%20Roman.md)
-* [ ] 13. [Roman to Integer](13.%20Roman%20to%20Integer.md)	
-* [ ] 14. [Longest Common Prefix](14.%20Longest%20Common%20Prefix.md)
+* [x] 11. [Container With Most Water](11.%20Container%20With%20Most%20Water.md)
+* [x] 12. [Integer to Roman](12.%20Integer%20to%20Roman.md)
+* [x] 13. [Roman to Integer](13.%20Roman%20to%20Integer.md)	
+* [x] 14. [Longest Common Prefix](14.%20Longest%20Common%20Prefix.md)
 * [ ] 15. 3Sum
 * [ ] 16. 3Sum Closest
 * [ ] 17. Letter Combinations of a Phone Number
 * [ ] 18. 4Sum
 * [ ] 19. Remove Nth Node From End of List
-* [ ] 20. [Valid Parentheses](20.%20Valid%20Parentheses.md)
-* [ ] 21. [Merge Two Sorted Lists](21.%20Merge%20Two%20Sorted%20Lists.md)
+* [x] 20. [Valid Parentheses](20.%20Valid%20Parentheses.md)
+* [x] 21. [Merge Two Sorted Lists](21.%20Merge%20Two%20Sorted%20Lists.md)
 * [ ] 22. Generate Parentheses
 * [ ] 23. Merge k Sorted Lists
 * [ ] 24. Swap Nodes in Pairs	
 * [ ] 25. Reverse Nodes in k-Group
-* [ ] 26. [Remove Duplicates from Sorted Array](26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
-* [ ] 27. [Remove Element](27.%20Remove%20Element.md)
-* [ ] 28. [Implement strStr()](28.%20Implement%20strStr().md)	
+* [x] 26. [Remove Duplicates from Sorted Array](26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
+* [x] 27. [Remove Element](27.%20Remove%20Element.md)
+* [x] 28. [Implement strStr()](28.%20Implement%20strStr().md)	
 * [ ] 29. Divide Two Integers
 * [ ] 30. Substring with Concatenation of All Words
 * [ ] 31. Next Permutation
@@ -38,7 +38,7 @@
 * [ ] 35. Search Insert Position
 * [ ] 36. Valid Sudoku	
 * [ ] 37. Sudoku Solver
-* [ ] 38. [Count and Say](38.%20Count%20and%20Say.md)
+* [x] 38. [Count and Say](38.%20Count%20and%20Say.md)
 * [ ] 39. Combination Sum
 * [ ] 40. Combination Sum II
 * [ ] 41. First Missing Positive
@@ -118,7 +118,7 @@
 * [ ] 115. Distinct Subsequences
 * [ ] 116. Populating Next Right Pointers in Each Node
 * [ ] 117. Populating Next Right Pointers in Each Node II
-* [ ] 118. [Pascal's Triangle](118.%20Pascal's%20Triangle.md)
+* [x] 118. [Pascal's Triangle](118.%20Pascal's%20Triangle.md)
 * [ ] 119. Pascal's Triangle II
 * [ ] 120. Triangle
 * [ ] 121. Best Time to Buy and Sell Stock
@@ -169,7 +169,7 @@
 * [ ] 166. Fraction to Recurring Decimal
 * [ ] 167. Two Sum II - Input array is sorted
 * [ ] 168. Excel Sheet Column Title
-* [ ] 169. [Majority Element](169.%20Majority%20Element.md)
+* [x] 169. [Majority Element](169.%20Majority%20Element.md)
 * [ ] 170. Two Sum III - Data structure design
 * [ ] 171. Excel Sheet Column Number
 * [ ] 172. Factorial Trailing Zeroes
@@ -287,7 +287,7 @@
 * [ ] 284. Peeking Iterator
 * [ ] 285. Inorder Successor in BST
 * [ ] 286. Walls and Gates
-* [ ] 287. [Find the Duplicate Number](287.%20Find%20the%20Duplicate%20Number.md)
+* [x] 287. [Find the Duplicate Number](287.%20Find%20the%20Duplicate%20Number.md)
 * [ ] 288. Unique Word Abbreviation
 * [ ] 289. Game of Life
 * [ ] 290. Word Pattern
@@ -371,7 +371,7 @@
 * [ ] 368. Largest Divisible Subset
 * [ ] 369. Plus One Linked List
 * [ ] 370. Range Addition
-* [ ] 371. [Sum of Two Integers](371.%20Sum%20of%20Two%20Integers.md)
+* [x] 371. [Sum of Two Integers](371.%20Sum%20of%20Two%20Integers.md)
 * [ ] 372. Super Pow
 * [ ] 373. Find K Pairs with Smallest Sums
 * [ ] 374. Guess Number Higher or Lower
@@ -452,7 +452,7 @@
 * [ ] 455. Assign Cookies
 * [ ] 456. 132 Pattern
 * [ ] 457. Circular Array Loop
-* [ ] 458. [Poor Pigs](458.%20Poor%20Pigs.md)
+* [x] 458. [Poor Pigs](458.%20Poor%20Pigs.md)
 * [ ] 459. Repeated Substring Pattern
 * [ ] 460. LFU Cache
 * [ ] 461. Hamming Distance
@@ -541,7 +541,7 @@
 * [ ] 556. Next Greater Element III
 * [ ] 557. Reverse Words in a String III
 * [ ] 560. Subarray Sum Equals K
-* [ ] 561. [Array Partition I](561.%20Array%20Partition%20I.md)
+* [x] 561. [Array Partition I](561.%20Array%20Partition%20I.md)
 * [ ] 562. Longest Line of Consecutive One in Matrix
 * [ ] 563. Binary Tree Tilt
 * [ ] 564. Find the Closest Palindrome
